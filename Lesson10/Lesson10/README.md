@@ -1,11 +1,11 @@
-#Ödev 10: "API Explorer" — Gerçek veriyle SwiftUI Listeleme Uygulaması
+# Ödev 10: "API Explorer" — Gerçek veriyle SwiftUI Listeleme Uygulaması
 
 Bu proje, **SwiftUI** ve **MVVM** mimarisi kullanılarak geliştirilmiş basit bir Rick and Morty karakter listeleme uygulamasıdır.  
 Uygulama, Rick and Morty API’den karakterleri çekip liste halinde gösterir. Kullanıcılar karakter detaylarını görebilir ve favorilere ekleyebilir. Favoriler **UserDefaults** ile saklanmaktadır. 
 
 ---
 
-##Kurulum
+## Kurulum
 
 1. Bu repoyu klonlayın:
     ```bash
